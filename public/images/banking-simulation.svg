@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" rx="24" fill="#07121f"/>
+  <circle cx="716" cy="178" r="118" fill="#0f766e" opacity=".52"/>
+  <rect x="138" y="150" width="500" height="250" rx="20" fill="#111a2a" stroke="#5eead4" stroke-width="3"/>
+  <path d="M186 344 H590" stroke="#d9fff8" stroke-width="10" stroke-linecap="round" opacity=".55"/>
+  <path d="M210 298 L290 240 L370 286 L474 198 L568 238" fill="none" stroke="#5eead4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="662" y="188" fill="#e8fffb" font-family="Geist, Arial, sans-serif" font-size="82" font-weight="800">#1</text>
+  <text x="138" y="92" fill="#e8fffb" font-family="Geist, Arial, sans-serif" font-size="42" font-weight="700">BANKER'S SWEEP</text>
+  <text x="140" y="462" fill="#b8fff4" font-family="Geist, Arial, sans-serif" font-size="27">BIZCON'25 | Banking Simulation Winner</text>
+</svg>
